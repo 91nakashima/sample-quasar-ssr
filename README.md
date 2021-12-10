@@ -6,4 +6,6 @@
  npm i firebase-admin
 
  npm i firebase-functions
+
+ quasar build --ssr
 ```
